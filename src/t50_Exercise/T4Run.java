@@ -7,9 +7,12 @@ public class T4Run {
 		 int res= t4.add(10,20);
 		 System.out.println("res :" +res);
 		 System.out.println("안녕하세요");
+
 		 
 		 
 		 System.out.println("_____________________");
+		 System.out.println("안녕하세요22s");
+
 	}
 
 }

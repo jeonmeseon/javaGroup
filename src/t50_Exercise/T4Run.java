@@ -11,7 +11,7 @@ public class T4Run {
 		 
 		 
 		 System.out.println("_____________________");
-		 System.out.println("안녕하세요22s");
+		 System.out.println("안녕하세요22000s");
 
 	}
 
